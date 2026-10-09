@@ -1,5 +1,7 @@
 # Lithos AI
 
+[Demo video](https://www.youtube.com/watch?v=X2_BryBCPTg)
+
 A mining-research application for screening projects and companies, organizing watchlists, inspecting technical documents, and asking AI-assisted questions about the available data.
 
 ## Overview
