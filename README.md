@@ -55,8 +55,8 @@ Extraction uses GPT-4o and several chat/analysis routes use GPT-4o-mini in this 
 ## Run locally
 
 ```bash
-git clone https://github.com/anishkganesh/Lithos-AI.git
-cd Lithos-AI
+git clone https://github.com/anishkganesh/lithos-mining.git
+cd lithos-mining
 npm ci
 ```
 
